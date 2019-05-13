@@ -5,13 +5,13 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import * as firebase from 'firebase'
 var firebaseConfig = {
-    apiKey: "AIzaSyDujSCDDO_r4RGLhyYk5Eklo5zkWfADwx4",
+    apiKey: "",
     authDomain: "dream-world-d2cc2.firebaseapp.com",
-    databaseURL: "https://dream-world-d2cc2.firebaseio.com",
+    databaseURL: "",
     projectId: "dream-world-d2cc2",
-    storageBucket: "dream-world-d2cc2.appspot.com",
+    storageBucket: "",
     messagingSenderId: "1030010325982",
-    appId: "1:1030010325982:web:b35a557c4cdf4337"
+    appId: ""
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
